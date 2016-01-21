@@ -1,4 +1,4 @@
-# Disk-Snize
+# Disk-Size
 
 Each sector has 512 bytes of storage capacity.
 
